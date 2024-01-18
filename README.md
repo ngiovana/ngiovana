@@ -1,7 +1,7 @@
 ### Hi there, I'm Giovana! 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giovananiehues/)
-[<img src="https://img.shields.io/github/followers/milenacarecho?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ngiovana)
+[<img src="https://img.shields.io/github/followers/ngiovana?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ngiovana)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:giovana_niehues@hotmail.com)
 [![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-ffdd00?logo=Buy%20Me%20A%20Coffee&logoColor=000000)](https://buymeacoffee.com/ngiovana) 
 
